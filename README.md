@@ -81,12 +81,14 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/akul-sikand" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" style="margin: 0 10px;" />
   </a>
-  <a href="www.linkedin.com/in/akulsikand" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" height="40" />
+  <a href="https://akulsikand02.github.io/PortfolioWebsite/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" height="40" width="40" style="margin: 0 10px;" />
   </a>
 </p>
+
+
 
 ---
 
