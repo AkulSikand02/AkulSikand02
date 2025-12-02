@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/akul-sikand" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="[https://your-portfolio-link](https://www.linkedin.com/in/akulsikand/)" target="_blank">
+  <a href="https://www.linkedin.com/in/akulsikand/" target="_blank">
     <img src="https://skillicons.dev/icons?i=web" height="40" />
   </a>
 </p>
