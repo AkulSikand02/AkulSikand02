@@ -80,14 +80,26 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/akul-sikand" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" style="margin: 0 10px;" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/akul-sikand" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" alt="LinkedIn icon" style="margin: 0 12px; transition: transform 0.3s ease;" />
   </a>
-  <a href="https://akulsikand02.github.io/PortfolioWebsite/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" height="40" width="40" style="margin: 0 10px;" />
+  
+  <!-- Portfolio -->
+  <a href="https://akulsikand02.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
+    <img src="https://skillicons.dev/icons?i=web" height="48" width="48" alt="Website icon" style="margin: 0 12px; transition: transform 0.3s ease;" />
+  </a>
+  
+  <!-- GitHub (optional) -->
+  <a href="https://github.com/akulsikand02" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="48" width="48" alt="GitHub icon" style="margin: 0 12px; transition: transform 0.3s ease;" />
+  </a>
+  
+  <!-- Email (optional) -->
+  <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" alt="Email icon" style="margin: 0 12px; transition: transform 0.3s ease;" />
   </a>
 </p>
-
 
 
 ---
